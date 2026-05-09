@@ -1,0 +1,83 @@
+# ForensiX runtime log — generated automatically on first run
+2026-05-09 12:28:59,781 [WARNING] ui.live_map_view: PyQtWebEngine not available — install PyQtWebEngine for in-app maps
+2026-05-09 12:29:00,171 [INFO] core.evidence_manager: Database initialized at database/evidence.db
+2026-05-09 12:29:00,429 [INFO] ForensiX: ForensiX launched successfully
+2026-05-09 12:29:15,409 [INFO] core.evidence_manager: Database initialized at database/evidence.db
+2026-05-09 12:29:15,453 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:29:34,771 [INFO] core.report_generator: Text report generated: /Users/mohamedhasanin/Downloads/forensix/reports/forensix_report_20260509_122929.txt
+2026-05-09 12:29:41,860 [INFO] core.heatmap_engine: Heatmap saved: exports/heatmap_20260509_122941.png
+2026-05-09 12:29:41,869 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:29:43,531 [INFO] core.heatmap_engine: Heatmap saved: exports/heatmap_20260509_122943.png
+2026-05-09 12:29:43,540 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:29:43,823 [INFO] core.heatmap_engine: Heatmap saved: exports/heatmap_20260509_122943.png
+2026-05-09 12:29:43,832 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:29:44,036 [INFO] core.heatmap_engine: Heatmap saved: exports/heatmap_20260509_122943.png
+2026-05-09 12:29:44,046 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:29:44,214 [INFO] core.heatmap_engine: Heatmap saved: exports/heatmap_20260509_122944.png
+2026-05-09 12:29:44,223 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:29:52,395 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:29:53,028 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:29:53,208 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:29:56,898 [INFO] core.heatmap_engine: Heatmap saved: exports/heatmap_20260509_122956.png
+2026-05-09 12:29:56,908 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:29:57,257 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:29:57,444 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:29:57,609 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:29:57,797 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:29:57,978 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:29:58,159 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:29:58,361 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:29:59,260 [INFO] core.heatmap_engine: Heatmap saved: exports/heatmap_20260509_122959.png
+2026-05-09 12:29:59,269 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:29:59,426 [INFO] core.heatmap_engine: Heatmap saved: exports/heatmap_20260509_122959.png
+2026-05-09 12:29:59,435 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:29:59,633 [INFO] core.heatmap_engine: Heatmap saved: exports/heatmap_20260509_122959.png
+2026-05-09 12:29:59,642 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:30:16,867 [INFO] core.heatmap_engine: Heatmap saved: exports/heatmap_20260509_123016.png
+2026-05-09 12:30:16,876 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:30:17,345 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:30:17,528 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:30:17,707 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:30:17,901 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:30:18,658 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:30:18,858 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:30:19,498 [INFO] core.heatmap_engine: Heatmap saved: exports/heatmap_20260509_123019.png
+2026-05-09 12:30:19,507 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:30:19,641 [INFO] core.heatmap_engine: Heatmap saved: exports/heatmap_20260509_123019.png
+2026-05-09 12:30:19,651 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:31:05,752 [INFO] core.heatmap_engine: Heatmap saved: exports/heatmap_20260509_123105.png
+2026-05-09 12:31:05,761 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:31:06,319 [INFO] core.heatmap_engine: Heatmap saved: exports/heatmap_20260509_123106.png
+2026-05-09 12:31:06,328 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:31:06,475 [INFO] core.heatmap_engine: Heatmap saved: exports/heatmap_20260509_123106.png
+2026-05-09 12:31:06,485 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:31:09,311 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 12:38:23,005 [WARNING] ui.live_map_view: PyQtWebEngine not available — install PyQtWebEngine for in-app maps
+2026-05-09 12:38:23,271 [INFO] core.evidence_manager: Database initialized at database/evidence.db
+2026-05-09 12:38:23,345 [INFO] ForensiX: ForensiX launched successfully
+2026-05-09 17:04:53,883 [WARNING] ui.live_map_view: PyQtWebEngine not available — install PyQtWebEngine for in-app maps
+2026-05-09 17:04:54,266 [INFO] core.evidence_manager: Database initialized at database/evidence.db
+2026-05-09 17:04:54,525 [INFO] ForensiX: ForensiX launched successfully
+2026-05-09 17:05:29,158 [INFO] core.evidence_manager: Database initialized at database/evidence.db
+2026-05-09 17:05:29,187 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 17:05:34,392 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 17:06:52,262 [INFO] core.evidence_manager: Database initialized at database/evidence.db
+2026-05-09 17:06:52,394 [INFO] ForensiX: ForensiX launched successfully
+2026-05-09 17:07:28,227 [INFO] core.evidence_manager: Database initialized at database/evidence.db
+2026-05-09 17:07:28,269 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 17:07:32,519 [INFO] core.heatmap_engine: Heatmap saved: exports/heatmap_20260509_170732.png
+2026-05-09 17:07:32,529 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 17:07:32,963 [INFO] core.heatmap_engine: Heatmap saved: exports/heatmap_20260509_170732.png
+2026-05-09 17:07:32,973 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 17:07:33,948 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 17:07:34,736 [INFO] core.heatmap_engine: Heatmap saved: exports/heatmap_20260509_170734.png
+2026-05-09 17:07:34,745 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 17:08:11,014 [INFO] core.evidence_manager: Database initialized at database/evidence.db
+2026-05-09 17:08:11,060 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 17:08:17,449 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 17:08:59,237 [INFO] core.report_generator: PDF report generated: /Users/mohamedhasanin/Downloads/forensix/reports/forensix_report_20260509_170855.pdf
+2026-05-09 17:22:55,489 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 17:22:56,568 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 17:22:56,822 [INFO] core.live_map_engine: Map generated: 5 GPS points plotted
+2026-05-09 17:44:35,162 [INFO] core.evidence_manager: Database initialized at database/evidence.db
+2026-05-09 17:44:35,373 [INFO] ForensiX: ForensiX launched successfully

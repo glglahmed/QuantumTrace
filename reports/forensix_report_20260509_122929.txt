@@ -1,0 +1,35 @@
+========================================================================
+  FORENSIX — DIGITAL FORENSICS INVESTIGATION REPORT
+========================================================================
+  Case    : ForensiX Investigation — 2026-05-09
+  Generated: 2026-05-09T12:29:34.771717
+  Platform : ForensiX DFIR v1.0.0
+========================================================================
+
+EXECUTIVE SUMMARY
+----------------------------------------
+  total_images                   6
+  with_gps                       5
+  total_anomalies                4
+  critical_anomalies             0
+  high_anomalies                 2
+
+EVIDENCE INVENTORY
+----------------------------------------
+  001  suspicious.jpg                       GPS:N  6b4e004cfc16b208...
+  002  suspect_photo_4.jpg                  GPS:Y  ce0ac5b34cca6584...
+  003  suspect_photo_5.jpg                  GPS:Y  d4ee65b9ff681236...
+  004  suspect_photo_2.jpg                  GPS:Y  4cbe2f4b1fe1b8f8...
+  005  suspect_photo_3.jpg                  GPS:Y  a3b41ac692f22f3a...
+  006  suspect_photo_1.jpg                  GPS:Y  5c38747f170019ea...
+
+ANOMALIES
+----------------------------------------
+  [HIGH    ] MISSING_EXIF                         No EXIF metadata found — possible stripping or forgery
+  [MEDIUM  ] MISSING_GPS                          No GPS coordinates embedded in image
+  [HIGH    ] MISSING_TIMESTAMP                    No timestamp metadata found — metadata may have been wiped
+  [MEDIUM  ] MISSING_CAMERA_INFO                  No camera make/model — possible screenshot or edited image
+
+========================================================================
+  ForensiX DFIR  |  Chain of Custody Protected
+========================================================================

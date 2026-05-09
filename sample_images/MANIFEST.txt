@@ -1,0 +1,12 @@
+# ForensiX Sample Dataset Manifest
+
+01 | sample_01_cairo.jpg | Cairo, Egypt | 30.0444,31.2357 | 2024-03-16 17:00 | Apple iPhone 14 Pro | Original
+02 | sample_02_london.jpg | London, UK | 51.5074,-0.1278 | 2024-03-17 05:00 | Samsung Galaxy S23 | Original
+03 | sample_03_new_york.jpg | New York, USA | 40.7128,-74.0060 | 2024-03-15 20:00 | Google Pixel 7 | Original
+04 | sample_04_tokyo.jpg | Tokyo, Japan | 35.6762,139.6503 | 2099-01-01 12:00 | Canon EOS R5 | Adobe Photoshop 24.0
+05 | sample_05_sydney.jpg | Sydney, Australia | -33.8688,151.2093 | 2024-03-16 09:00 | Nikon Z6 II | GIMP 2.10
+06 | sample_06_paris.jpg | Paris, France | 48.8566,2.3522 | 2024-03-17 12:00 | Apple iPhone 14 Pro | Original
+07 | sample_07_dubai.jpg | Dubai, UAE | 25.2048,55.2708 | 2024-03-17 06:00 | Samsung Galaxy S23 | Snapseed 2.19
+08 | sample_08_são_paulo.jpg | São Paulo, Brazil | 0.0000,0.0000 | 2024-03-17 02:00 | Google Pixel 7 | Original
+09 | sample_09_moscow.jpg | Moscow, Russia | 55.7558,37.6173 | 2024-03-17 19:00 | Canon EOS R5 | Original
+10 | sample_10_cape_town.jpg | Cape Town, S. Africa | -33.9249,18.4241 | 2024-03-19 07:00 | Nikon Z6 II | Original
